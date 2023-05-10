@@ -1,0 +1,12 @@
+*{
+    background-color: rgb(232, 170, 88);
+}
+
+body{
+    
+    position: relative;
+    position: cover;
+}
+.main{
+    font-size: 300%;
+}
